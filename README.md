@@ -5,11 +5,11 @@
 
 This repository hosts PDFs of my research publications and whitepapers.
 
-## 2025
+## 2026
 - [AIM as the new CEO](2025/2025-AIMCEO.pdf)
   *Blockchain-based copyright system with timestamped proof of ownership.*
 
-## 2024
+## 2025
 - [AI Copyright Paper](2024/2024-AICopyright.pdf)
 
 ## Contact
