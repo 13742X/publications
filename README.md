@@ -9,7 +9,7 @@ This repository hosts PDFs of my research publications and whitepapers.
 - [AIM as the new CEO](2025/2026-APM-AIM.pdf)
   *APM: The End of Tickets How One Person - AI Can Build a Unicorn to Replace Jira*
   
-- [AIM as the new CEO](2026/2026-Why-You-Only-Nedd-FIDO2.pdf)
+- [FIDO2 for SMEs](2026/2026-Why-You-Only-Need-FIDO2.pdf)
   *FIDO2: A better approach for SME access management*
   
 ## 2025
