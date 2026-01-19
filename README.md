@@ -6,8 +6,8 @@
 This repository hosts PDFs of my research publications and whitepapers.
 
 ## 2026
-- [AIM as the new CEO](2025/2025-AIMCEO.pdf)
-  *Blockchain-based copyright system with timestamped proof of ownership.*
+- [AIM as the new CEO](2025/2026-APM-AIM.pdf)
+  *APM: The End of Tickets How One Person - AI Can Build a Unicorn to Replace Jira*
 
 ## 2025
 - [AI Copyright Paper](2024/2024-AICopyright.pdf)
